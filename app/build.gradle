@@ -23,6 +23,8 @@ dependencies {
     // https://mvnrepository.com/artifact/org.projectlombok/lombok
     compileOnly 'org.projectlombok:lombok:1.18.24'
 
+    // https://mvnrepository.com/artifact/org.springframework/spring-web
+    implementation 'org.springframework:spring-web:4.1.6.release'
 
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:31.1-jre'
